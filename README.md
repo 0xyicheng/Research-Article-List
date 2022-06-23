@@ -10,3 +10,4 @@
 - **The evolution of zero-knowledge proofs**
 - **Scaling Journey - Dive Into Danksharding**
 - **Ethereum - History storage and state bloat problem**
+- **Inter-Rollup liquidity aggregation and composability**
